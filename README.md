@@ -1,5 +1,6 @@
 # My-spot 
 First two projects are from my University class Numerical Methods.
+
 First one is about working with
 matrices - checking what effect number of elements or magnitude of elements have on the accuracy of the operations done on the matrices.
 Also I've developed a procedure for solving linear systems of algebraic equations with the method "Choleski-Banachiewicz distribution"
