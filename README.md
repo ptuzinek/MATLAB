@@ -1,4 +1,4 @@
-# My-spot 
+# function_approx
 First two projects are from my University class Numerical Methods.
 
 First one is about working with
